@@ -146,14 +146,14 @@ section {
 }
 
 .sec1 {
-  background-image: url("images/back2.jpg");
+  background-image: url("back2.jpg");
 }
 .sec1 p {
   margin: 20px;
 }
 
 .sec2 {
-  background-image: url("images/clouds.jpg");
+  background-image: url("clouds.jpg");
 }
 .sec-inner2 {
   position: absolute;
@@ -175,7 +175,7 @@ section {
 }
 
 .sec3 {
-  background-image: url("images/tree.jpg");
+  background-image: url("tree.jpg");
 }
 
 
