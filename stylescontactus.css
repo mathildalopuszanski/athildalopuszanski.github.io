@@ -16,7 +16,7 @@ html {
 body {
     font-family:'Trebuchet MS';
     margin: 0;
-    background-image: url("images/nightsky1.jpg");
+    background-image: url("nightsky1.jpg");
     position: relative;
     background-position: center center;
     background-repeat: no-repeat;
